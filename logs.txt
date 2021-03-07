@@ -1,0 +1,42 @@
+2021-03-07 23:13:47.232260 -- sub_files start 
+2021-03-07 23:14:07.328816 -- sub_files done
+2021-03-07 23:14:07.610643 -- sub_files start 
+2021-03-07 23:14:33.874812 -- sub_files done
+2021-03-07 23:14:34.148644 -- change_files start 
+2021-03-07 23:15:13.773178 -- change_files done
+2021-03-07 23:15:13.787169 -- change_files start 
+2021-03-07 23:16:01.872400 -- change_files done
+2021-03-07 23:16:01.888388 -- insert_data start
+2021-03-07 23:16:04.900523 -- insert success 1.2019.csv
+2021-03-07 23:16:07.918654 -- insert success 2.2019.csv
+2021-03-07 23:16:11.482230 -- insert success 3.2019.csv
+2021-03-07 23:16:15.073242 -- psycopg2.ProgrammingError
+2021-03-07 23:16:15.151194 -- psycopg2.ProgrammingError gone
+2021-03-07 23:16:18.214298 -- insert success 4.2019.csv
+2021-03-07 23:16:21.106832 -- insert success 5.2019.csv
+2021-03-07 23:16:24.060004 -- insert success 6.2019.csv
+2021-03-07 23:16:26.878259 -- insert success 7.2019.csv
+2021-03-07 23:16:29.972609 -- insert success 8.2019.csv
+2021-03-07 23:16:33.470547 -- insert success 9.2019.csv
+2021-03-07 23:16:36.896429 -- insert success 10.2019.csv
+2021-03-07 23:16:39.987140 -- insert success 11.2019.csv
+2021-03-07 23:16:45.524711 -- insert success 12.2019.csv
+2021-03-07 23:16:48.413920 -- insert success 13.2019.csv
+2021-03-07 23:16:51.397581 -- insert success 14.2019.csv
+2021-03-07 23:16:54.792479 -- insert success 15.2019.csv
+2021-03-07 23:16:54.792479 -- insert_data start
+2021-03-07 23:16:58.320551 -- insert success 1.2020.csv
+2021-03-07 23:17:01.757422 -- insert success 2.2020.csv
+2021-03-07 23:17:04.968969 -- insert success 3.2020.csv
+2021-03-07 23:17:08.564762 -- insert success 4.2020.csv
+2021-03-07 23:17:12.479340 -- insert success 5.2020.csv
+2021-03-07 23:17:15.649377 -- insert success 6.2020.csv
+2021-03-07 23:17:18.656515 -- insert success 7.2020.csv
+2021-03-07 23:17:22.245293 -- insert success 8.2020.csv
+2021-03-07 23:17:26.570485 -- insert success 9.2020.csv
+2021-03-07 23:17:33.754148 -- insert success 10.2020.csv
+2021-03-07 23:17:39.354972 -- insert success 11.2020.csv
+2021-03-07 23:17:43.149624 -- insert success 12.2020.csv
+2021-03-07 23:17:47.076651 -- insert success 13.2020.csv
+2021-03-07 23:17:50.670426 -- insert success 14.2020.csv
+2021-03-07 23:17:54.181252 -- insert success 15.2020.csv
