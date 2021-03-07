@@ -304,13 +304,7 @@ if __name__ == '__main__':
     connect()
 
 
-# Конфігурація з'єднання з БД має виконуватись без внесення змін у код програми
-'''
-By using the database.ini, you can change the PostgreSQL connection parameters
-when you move the code to the production environment without modifying the code.
-Notice that if you git, you need to add the database.ini to the .gitignore file to not
-committing the sensitive information to the public repo like github.
-'''
+
 
 
 
