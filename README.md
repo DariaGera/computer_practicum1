@@ -1,6 +1,6 @@
 # computer_practicum1
 dbis laba
-Лабораторна робота №1 з баз даних
+#Лабораторна робота №1 з баз даних
 Даний репозиторій містить наступні файли:
 
 docker-compose.yaml -- для запуску PostgreSQL та pgAdmin через Docker;
