@@ -8,6 +8,8 @@ dbis laba
 comp_pract1.py -- код мовою Python, який створює таблицю в базі даних, заповнює її, виконує запит та записує його результат у новий csv-файл;
 database.ini -- PostgreSQL connection parameters;
 config.py -- зчитує дані з database.ini;
+logs.txt -- файл з вимірами часу роботи завантаження даних у БД;
+Task_var5.csv --результат запиту до бази даних.
 
 Інструкція з запуску:
 
